@@ -3,8 +3,8 @@
 # Hi there 👋
 
 ### I am a software engineer based in USA 🌊🌤
-[![Website](https://img.shields.io/badge/Portfolio-009688?&style=for-the-badge&logo=windowsterminal&logoColor=white&link=https://www.ajohnstondev.info/)](https://www.ajohnstondev.info/)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ajohnston-developer)](https://www.linkedin.com/in/ajohnston-developer/)
+[![Website](https://img.shields.io/badge/Portfolio-009688?&style=for-the-badge&logo=windowsterminal&logoColor=white&link=https://www.ajohnstondev.info/)](https://ajohnston.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ajohnston-developer)](https://www.linkedin.com/in/ajohnston-pro/)
 
 
 ## Technology Stack
